@@ -7,4 +7,4 @@
 Diberikan tugas untuk membuat sebuah halaman aplikasi yang mempunyai fungsi Card Box sederhana dengan memanfaatkan bootstrap sebagai perkenalan dasar CSS Framework 
 
 
-![dash](./img/dash.png)
+![dash](./img/image.png)
